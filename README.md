@@ -1,7 +1,7 @@
 # ☕ Secure Web-Based Java IDE & Compiler
 
-[![Live Demo](https://img.shields.io/badge/Live_Deployment-GitHub_Pages-success?style=for-the-badge&logo=github)](YOUR_GITHUB_PAGES_LINK_HERE)
-[![Security Focus](https://img.shields.io/badge/Security-Anti--Plagiarism_Enabled-red?style=for-the-badge&logo=shield)](YOUR_GITHUB_PAGES_LINK_HERE)
+[![Live Demo](https://img.shields.io/badge/Live_Deployment-GitHub_Pages-success?style=for-the-badge&logo=github)](https://infoankanin-hub.github.io/Online-JAVA-Compiler-with-modern-features/)
+[![Security Focus](https://img.shields.io/badge/Security-Anti--Plagiarism_Enabled-red?style=for-the-badge&logo=shield)](https://infoankanin-hub.github.io/Online-JAVA-Compiler-with-modern-features/)
 [![Code Quality](https://img.shields.io/badge/Code-Clean_Architecture-blue?style=for-the-badge)](#)
 [![Status](https://img.shields.io/badge/Status-Active_Development-brightgreen?style=for-the-badge)](#)
 
